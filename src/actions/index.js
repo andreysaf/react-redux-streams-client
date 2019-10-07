@@ -8,6 +8,7 @@ import {
     DELETE_STREAM,
     EDIT_STREAM
 } from './type';
+import history from '../history';
 
 export const signIn = (userId) => {
     return {
@@ -30,6 +31,7 @@ export const createStream = (formValues) => {
             type: CREATE_STREAM,
             payload: response.data
         });
+        history.push('/');
     };
 };
 
