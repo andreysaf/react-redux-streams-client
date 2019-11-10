@@ -2,14 +2,14 @@
 
 React app for Streaming using OBS. Supports Google Authentication, Creating, Editing, Deleting Streams.
 
-(/screenshots/screen1.png?raw=true "Screenshot1")
+![Screenshot 1](https://github.com/andreysaf/react-redux-streams-client/raw/master/screenshots/screen1.png)
 
 In order to run this project you will need to clone additional repos:
 
 https://github.com/andreysaf/react-redux-streams-server
 https://github.com/andreysaf/react-redux-streams-rtmpserver
 
-(/screenshots/screen2.png?raw=true "Screenshot2")
+![Screenshot 2](https://github.com/andreysaf/react-redux-streams-client/raw/master/screenshots/screen2.png)
 
 ## Installation
 
