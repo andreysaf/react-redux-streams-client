@@ -7,13 +7,15 @@ React app for Streaming using OBS. Supports Google Authentication, Creating, Edi
 In order to run this project you will need to clone additional repos:
 
 [react-redux-streams-server](https://github.com/andreysaf/react-redux-streams-server)
+
+
 [react-redux-streams-rtmpserver](https://github.com/andreysaf/react-redux-streams-rtmpserver)
 
 ![Screenshot 2](https://github.com/andreysaf/react-redux-streams-client/raw/master/screenshots/screen2.PNG)
 
 ## Installation
 
-In the project directory of react-redux-streams-client, and react-redux-streams-server, and react-redux-streams-rtmpserver, you can run:
+In the project directory of react-redux-streams-client, and [react-redux-streams-server](https://github.com/andreysaf/react-redux-streams-server), and [react-redux-streams-rtmpserver](https://github.com/andreysaf/react-redux-streams-rtmpserver), you can run:
 
 ### `npm install`
 
