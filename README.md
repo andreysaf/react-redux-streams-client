@@ -1,29 +1,26 @@
-A really cool project coming soon! Stay tuned.
+## React-Redux Streamer
 
-## Available Scripts
+React app for Streaming using OBS. Supports Google Authentication, Creating, Editing, Deleting Streams.
 
-In the project directory, you can run:
+<img src="/screenshots/screen1.png" />
+
+In order to run this project you will need to clone additional repos:
+
+https://github.com/andreysaf/react-redux-streams-server
+https://github.com/andreysaf/react-redux-streams-rtmpserver
+
+<img src="/screenshots/screen2.png" />
+
+## Installation
+
+In the project directory of react-redux-streams-client, and react-redux-streams-server, and react-redux-streams-rtmpserver, you can run:
+
+### `npm install`
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
+You need to make sure you have all three repos, cloned, all dependencies installed and started.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
